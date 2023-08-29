@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    color: brown;
+    background-color: rgb(210, 213, 58);
+    font-weight: bolder;
+    font-size: larger;
+
+   
+}
+
+button{
+    color: red;
+    background-color: goldenrod ;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    border: 2px;
+    
+}
+
+#player-el{
+    font-weight: bold;
+    color: blueviolet;
+    }
+
+
+
